@@ -1,0 +1,11 @@
+This code compiles the executable required to carry out the weighted delaunay triangulation
+
+The CGAL library must first be installed. In the terminal:
+
+sudo apt-get install libcgal-dev 
+
+To compile in the terminal from this folder run:
+
+cmake . 	 
+make 	
+cp weighted_delaunay ../
