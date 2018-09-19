@@ -1,8 +1,8 @@
 # Weighted-Delaunay-Constrictions
 Calculates constriction size distribution for DEM simulations using the weighted Delaunay method
 
-Implementation of Reboul et al 2008 (https://doi.org/10.1007/s10035-008-0111-5)  and Reboul et al., 2010 (https://doi.org/10.1016/j.compgeo.2009.09.002)
-Please cite this Implementation as Shire et al 2013 (https://doi.org/10.1680/geot.11.T.020).
+Implementation of Reboul et al. 2008 (https://doi.org/10.1007/s10035-008-0111-5)  and Reboul et al. 2010 (https://doi.org/10.1016/j.compgeo.2009.09.002)
+Please cite this Implementation as Shire et al. 2013 (https://doi.org/10.1680/geot.11.T.020).
  
 The implementation has been developed for a linux OS and uses the Matlab command ‘unix’ . To run in windows this stage will need to be adapted.  
 For details on how to compile the CGAL code see readme in Weighted_Delaunay_CGAL folder.
